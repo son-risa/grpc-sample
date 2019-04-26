@@ -6,7 +6,7 @@ import (
   "os"
   "time"
   "google.golang.org/grpc"
-  pb "sonrisa/helloworld"
+  pb "github.com/son-risa/grpc-sample/rpc/helloworld"
 )
 
 const (
