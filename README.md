@@ -1,0 +1,4 @@
+# 目的
+grpcのサンプルアプリをDockerコンテナ化し、Kubernetesにデプロイするとともに、istioとEnvoyを使ってサービスメッシュで管理し、サービスの利用状況をPrometeusとGrafanaで可視化するサンプルを作成する
+
+# 
